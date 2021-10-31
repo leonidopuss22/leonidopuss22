@@ -22,7 +22,7 @@
 
 >Html, Css, JS, PHP, Python, MySQL
 
-<img width="31px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/html.png"><img width="31px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/css.png"><img width="31px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/js.png"><img width="31px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/php.png"><img width="31px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/python.png"><img width="31px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/mysql.png">
+<img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/html.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/css.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/js.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/php.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/python.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/mysql.png">
 
 ## Мои контакты:
 Мой Discord: **Leonid Opuss#3678**
