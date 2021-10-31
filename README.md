@@ -29,7 +29,7 @@
 <img width="31px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/python.png">
 <img width="31px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/mysql.png">
 
-##Мои контакты:
+## Мои контакты:
 Мой Discord: **Leonid Opuss#3678**
 ![status](https://dev.discordprofiles.me/badge/status/502948927809781763?simple=true)
 
