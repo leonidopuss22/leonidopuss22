@@ -1,4 +1,4 @@
-<strong><span style="color:#3aa5a1;font-size:48px;font-family:monospace">Добро пожаловать на мой профиль GitHub!</span></strong>
+<strong><span style="color:#3aa5a1;font-size:64px;font-family:monospace">Добро пожаловать на мой профиль GitHub!</span></strong>
 
 Здравствуйте! Меня зовут Леонид, вы попали на мой профиль GitHub. Здесь вы сможете ознакомиться с моими работами и информацией обо мне!
 
