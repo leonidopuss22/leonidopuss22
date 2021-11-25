@@ -24,7 +24,7 @@
 <img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/html.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/css.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/js.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/php.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/python.png"><img width="64px" src="https://raw.githubusercontent.com/leonidopuss22/leonidopuss22/master/images/mysql.png">
 
 ## Мои достижения за последнее время:
-![2 место в олимпиаде по информатике (программированию) на Python](http://ejudge.cfuv.ru/2021/munic/standings/feodosiya11_2021.html)
+![2 место в муниципальной олимпиаде по информатике (программированию) на Python](http://ejudge.cfuv.ru/2021/munic/standings/feodosiya11_2021.html)
 
 ## Мои контакты:
 Мой Discord: **Leonid Opuss#3678**
