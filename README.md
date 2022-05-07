@@ -10,7 +10,7 @@
     * Неоднократно работал с *MySQL - самой известной СУБД*, также с языком **SQL**
 * Владею и изучаю язык программирования **Python** 
   * Также имею опыт создания ботов в Discord, написанных на Python
-  * Умею использовать **pymongo** - модуль Python для работы с **MongoDB**
+  * Использую **pymongo** - модуль Python для работы с **MongoDB**
   * Мой верифицированный бот: [\*тык*](https://discord.com/api/oauth2/authorize?client_id=719928135927332885&permissions=1573645526&scope=bot)
   * [Мой второй тестовый бот](https://discord.com/api/oauth2/authorize?client_id=759392839133560852&permissions=8&scope=bot%20applications.commands)
 
